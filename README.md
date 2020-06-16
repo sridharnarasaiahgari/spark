@@ -44,3 +44,4 @@ Note: This program should be kept running for collecting tweets.
 
 #####Running the Stream Analysis Program:
 `$ $SPARK_HOME/bin/spark-submit --packages org.apache.spark:spark-streaming-kafka_2.10:1.5.1 twitterStream.py`
+ 
